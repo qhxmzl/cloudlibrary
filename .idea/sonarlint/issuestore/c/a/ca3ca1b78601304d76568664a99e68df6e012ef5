@@ -1,0 +1,15 @@
+
+j
+java:S1192 "HDefine a constant instead of duplicating this literal "bookDao" 9 times.(Ãù¹øÿÿÿÿ8å¦Á®ë0
+m
+java:S11924"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(å‚àŸøÿÿÿÿ8æ¦Á®ë0
+]
+java:S6213²":Rename this variable to not match a restricted identifier.(Í‡Û¥ùÿÿÿÿ8…§Á®ë0
+X
+java:S6213Í":Rename this variable to not match a restricted identifier.(²˜¹ú8‡§Á®ë0
+e
+java:S1128"CRemove this unused import 'com.itheima.cloudlibrary.dao.RecordDao'.(ôÖğ®ùÿÿÿÿ8ˆ§Á®ë0
+c
+java:S1128"ARemove this unused import 'com.itheima.cloudlibrary.dao.UserDao'.(Ë×ëÖıÿÿÿÿ8ˆ§Á®ë0
+f
+java:S1128"IRemove this unused import 'com.itheima.cloudlibrary.service.UserService'.(èÛúá8‰§Á®ë0
